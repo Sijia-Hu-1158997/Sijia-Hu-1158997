@@ -1,7 +1,7 @@
 ### Hi there 👋
 
+- Pursuing studies in Applied Computing.
 - Passionate about exploring the intersection of technology and real-world applications.
-- Excited to learn and apply new concepts in software development and problem-solving.
 - Open to collaboration and eager to contribute to innovative projects.
 - Looking forward to sharing my journey and progress with you through this repository.
 
